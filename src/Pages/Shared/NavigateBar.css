@@ -1,0 +1,17 @@
+.navOption:hover {
+    background-color: #F62455;
+}
+
+.navOption {
+    font-size: 1.3em;
+    font-weight: 700;
+}
+
+.navOption1 {
+    font-size: 1.6em;
+    font-weight: 700;
+}
+
+.navOption1:hover {
+    background-color: #F62455;
+}

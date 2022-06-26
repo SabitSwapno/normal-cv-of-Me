@@ -1,10 +1,14 @@
 import React from 'react';
+import Footer from '../Shared/Footer';
+import NavigateBar from '../Shared/NavigateBar';
 
 const Experiences = () => {
     return (
-        <div>
+        <>
+            <NavigateBar></NavigateBar>
             this is Experiences
-        </div>
+            <Footer></Footer>
+        </>
     );
 };
 
