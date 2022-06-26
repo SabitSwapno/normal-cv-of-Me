@@ -1,0 +1,26 @@
+.BGPic {
+    position: relative;
+    overflow: hidden;
+}
+
+.BGtext {
+    position: absolute;
+    top: 25%;
+    color: #F8F9FA;
+    -webkit-text-stroke: 0.2px rgb(37, 37, 37);
+    text-shadow: 1px 1px rgb(66, 66, 66);
+}
+
+.Custombutton {
+    background-color: #212529;
+    text-decoration: none;
+    font-size: 1.4em;
+    color: #F8F9FA;
+    padding: 10px 35px;
+    border-radius: 4px 12px;
+}
+
+.Custombutton:hover {
+    background-color: rgb(246, 36, 85);
+    color: #F8F9FA;
+}
