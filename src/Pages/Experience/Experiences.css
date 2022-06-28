@@ -4,9 +4,8 @@
     box-shadow: 0 0 5px 1px;
 }
 
-.cardbgC {
-    background-color: rgb(230, 230, 230);
+.cardbgCus {
     border: 0;
-    box-shadow: 0 0 5px 1px rgb(166, 166, 166);
+    box-shadow: 0 0 4px 1px rgb(166, 166, 166);
     border-radius: 0;
 }

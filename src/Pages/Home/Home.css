@@ -24,3 +24,10 @@
     background-color: rgb(246, 36, 85);
     color: #F8F9FA;
 }
+
+@media screen and (max-width: 767px) {
+    .BGPic {
+        overflow: scroll;
+        background-color: #747474;
+    }
+}

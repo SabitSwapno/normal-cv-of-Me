@@ -1,0 +1,14 @@
+.Custombutton1 {
+    background-color: rgb(246, 36, 85);
+    text-decoration: none;
+    font-size: 1.1em;
+    color: #F8F9FA;
+    padding: 6px 35px;
+    border-radius: 4px 12px;
+    margin-top: 2%;
+}
+
+.Custombutton1:hover {
+    background-color: #212529;
+    color: #F8F9FA;
+}
