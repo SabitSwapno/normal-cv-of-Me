@@ -67,6 +67,9 @@ const Skills = () => {
                             <div className="col-9">
                                 <h4 className='fw-bolder'>Web-Developing</h4>
                                 <h6>A certified Web Developer who has finished his web-development course from Programming hero.</h6></div>
+                            <a style={{
+                                width: "50%",
+                            }} className='Custombutton3' href="https://drive.google.com/uc?export=download&id=1x3IkXKyGY5nRdhDbltD7zr_soiscQ6UK">Download Developer Resume</a>
                         </div>
                         <div className="row d-flex p-3 mb-2 justify-content-center align-items-center smallDivBG">
                             <div className="col-3">
