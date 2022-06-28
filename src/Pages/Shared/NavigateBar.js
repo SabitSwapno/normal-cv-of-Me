@@ -4,7 +4,6 @@ import { Navbar, Container, Offcanvas, Nav } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
 import './NavigateBar.css'
-import { hover } from '@testing-library/user-event/dist/hover';
 const NavigateBar = () => {
     return (
         <div>
@@ -13,7 +12,7 @@ const NavigateBar = () => {
                     <Navbar.Brand style={{
                         fontSize: "1.6em"
                     }}
-                        className='text-light'>Hey, Welcome from <span style={{
+                        className='text-light mx-auto'>Welcome from <span style={{
                             color: "#F62455",
                             fontWeight: "600"
                         }}
